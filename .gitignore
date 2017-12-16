@@ -1,0 +1,7 @@
+# Directories to ignore
+.DS_Store/
+Builds/
+
+\.DS_Store
+
+obj/Debug/
